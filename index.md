@@ -1,6 +1,6 @@
 # Welkom bij Knowmax Licentiesysteem voor Developers
 
-- [Knowmax Licentie](/concepts/knowmax-license) <br>
+- [Knowmax Licentie](/concepts/knowmax-license) <br/>
   Wat is een Knowmax Licentie en waarvoor kan het worden gebruikt
 - [Knowmax Licentie-onderdelen](/concepts/license-components)<br/>
   Verschillende licentie-onderdelen binnen een Knowmax licentie
