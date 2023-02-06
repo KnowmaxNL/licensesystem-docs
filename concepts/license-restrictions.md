@@ -1,5 +1,5 @@
 ---
-title: Licentie-restricties
+title: Knowmax Licentie restricties
 permalink: /concepts/license-restrictions
 ---
 

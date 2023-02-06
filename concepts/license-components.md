@@ -1,5 +1,5 @@
 ---
-title: Licentie onderdelen
+title: Knowmax Licentie onderdelen
 permalink: /concepts/license-components
 ---
 
