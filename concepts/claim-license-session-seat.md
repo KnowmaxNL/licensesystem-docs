@@ -1,4 +1,4 @@
 ---
-title: Plaats in lenctie opeisen
+title: Plaats in licenctie opeisen
 permalink: /concepts/claim-license-session-seat
 ---
